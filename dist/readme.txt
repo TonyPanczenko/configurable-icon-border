@@ -1,9 +1,9 @@
 1. To preview the component: 
-	View the demo site at ./demo site/dist or 
-	run "npm install && npm run serve" at ./demo site/development.
+	View the demo site at ./dist/demo site/dist or 
+	run "npm install && npm run serve" at root.
 
 2. To include the component in a Vue.js project:
-	Copy the IconBorder folder from ./component/for vue projects.
+	Copy the IconBorder folder from ./dist/component/for vue projects.
 	Add any project dependencies from package.json file.
 
 	Include the component in a normal way - either by registering
