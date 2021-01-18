@@ -47,7 +47,7 @@ export default {
   data() {
     return {
       // animation configuration details
-      animationDurationSec: 0.4,
+      animationDurationSec: 0.5,
       animationEasingFunction: "linear"
     };
   },
